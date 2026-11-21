@@ -2,10 +2,10 @@
 // MS PROVISIONS - Grocery Store
 
 // Replace with your shop WhatsApp number
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const WHATSAPP_NUMBER = "919963013953";
 
 const SHOP_NAME = "MS PROVISIONS";
-const SHOP_LOCATION = "Samgam";
+const SHOP_LOCATION = "Nellore,Samgam";
 
 const products = [
     {id:1,name:"Basmati Rice",category:"Rice & Dals",price:90,unit:"1 kg",image:"https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400"},
